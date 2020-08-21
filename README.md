@@ -1,0 +1,2 @@
+# "hello" in many languages
+I needed this tiny thing for a personal project where the word **hello** would be translated based on the location of the visitor (country). This JSON object file contains translations of the word in 109 languages including their respective language codes. Used the Google Translate API to generate the translations. If you find it useful, feel free to use it as you please.
